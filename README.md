@@ -1,3 +1,5 @@
+<img width="500" height="223" alt="rakebanner" src="https://github.com/user-attachments/assets/f172c38d-a46d-4641-98ed-76e200a061cd" />
+
 # Rake V - How to Use 🎵
 
 ## 🗂 Importing Playlists
